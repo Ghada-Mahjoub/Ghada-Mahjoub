@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# 👩‍🔬 Ghada Mahjoub
+ 👩‍🔬 Ghada Mahjoub
 
 🎓 PhD Student in Bioinformatics | Institut Pasteur de Tunis  
 🔬 Research focus: AI-driven drug discovery, transcriptomic signatures, and genotype-to-phenotype prediction.  
@@ -42,5 +42,3 @@
 ⭐️ *Always open to collaborations on bioinformatics pipelines, AI for healthcare, and open science projects!*  
 
 
-- ⚡ Fun fact: ...
--->
